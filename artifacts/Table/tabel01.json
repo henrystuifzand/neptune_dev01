@@ -1,0 +1,31 @@
+{
+	"id": "6a964ecf-2234-45ba-9575-2084eed078df",
+	"createdAt": "2023-05-24T13:32:56.000Z",
+	"createdBy": "admin",
+	"fields": [
+		{
+			"id": "8d396ed0-2c1c-47aa-d1d6-997ce86da600",
+			"fieldName": "Name",
+			"fieldType": "text",
+			"isUnique": false,
+			"description": "Name"
+		},
+		{
+			"id": "aa653cbf-b1e8-4e38-d75a-1ce31b002aef",
+			"fieldName": "Number",
+			"fieldType": "integer",
+			"isUnique": false,
+			"description": "Number"
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "tabel01",
+	"description": "Table for testing",
+	"ver": "23.5.24.1532",
+	"enableAudit": false,
+	"includeDataInPackage": false,
+	"package": "ae1e705b-cd58-4f2e-b350-6297cc90f382",
+	"rolesRead": [],
+	"rolesWrite": []
+}

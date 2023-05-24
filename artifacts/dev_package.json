@@ -1,0 +1,48 @@
+{
+	"id": "ae1e705b-cd58-4f2e-b350-6297cc90f382",
+	"createdAt": "2023-05-24T13:24:16.000Z",
+	"createdBy": "admin",
+	"git": {
+		"remote": "https://github.com/henrystuifzand/neptune_dev01.git"
+	},
+	"name": "Dev01",
+	"description": "Development package to GitHub",
+	"ver": "23.5.24.1329",
+	"enableCICD": true,
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [
+		{
+			"id": "6a964ecf-2234-45ba-9575-2084eed078df",
+			"name": "tabel01",
+			"description": "Table for testing"
+		}
+	],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"media_library": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}
